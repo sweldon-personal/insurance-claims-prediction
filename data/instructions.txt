@@ -1,0 +1,2 @@
+Data is sourced from https://www.kaggle.com/datasets/litvinenko630/insurance-claims/discussion/502080
+Which originates from https://statso.io/
